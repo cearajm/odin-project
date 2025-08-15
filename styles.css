@@ -1,0 +1,32 @@
+
+body {
+    font-family: cursive;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+    width: 650px;
+}
+
+.introduction, .list, .links {
+    width: 250px;
+    margin: 50px 100px;
+    text-align: left;
+}
+
+.introduction p {
+    margin: 4px;
+}
+
+.project-list {
+    margin-left: 20px;
+    padding: 0;
+}
+
+.yo {
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+    margin-top: 70px;
+    padding: 20px 30px;
+    background-color: lightblue;
+}
